@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariomauleon
 - 👀 II am interested in web development and technology jobs
-- 🌱 I’m currently learning React and Node JS
+- 🌱 I’m currently learning JS, GitHub, Bootstrap and Python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me mauleondario@gmail.com
 - 😄 Pronouns: him/he
